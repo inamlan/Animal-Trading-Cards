@@ -1,1 +1,42 @@
 /* add your CSS here */
+
+h3 {
+  padding: 0 20px;
+}
+
+p {
+  padding: 0 10px;
+}
+
+span {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0 10px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  border-radius: 10px;
+}
+.interestingfact{
+  font-style: italic;
+}
+.border{
+  border-style: solid;
+}
+.div1 {
+  width: 320px;
+  border: solid #ccc 1px;
+  border-radius: 10px;
+  box-shadow: 2px 4px 2px rgba(163,163,163, 0.7);
+}
+.div2 {
+  width: 300px;
+  border: solid #ccc 1px;
+  border-radius: 10px;
+  margin: 10px;
+}
